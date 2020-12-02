@@ -6,11 +6,46 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		77671D822577F2D200B1A6F5 /* AreLettersUnique.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AreLettersUnique.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77671D842577F37100B1A6F5 /* isPalindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = isPalindrome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77671D852577F3D400B1A6F5 /* CountCharacters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CountCharacters.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77671D862577F3DA00B1A6F5 /* ContainAnother.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ContainAnother.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77671D872577F3E900B1A6F5 /* RemoveDuplicates.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RemoveDuplicates.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77671D882577F3F300B1A6F5 /* SameCharacters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SameCharacters.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77671D892577F3FC00B1A6F5 /* StringRotated.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StringRotated.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77671D8A2577F5C400B1A6F5 /* CondenseWhitespace.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CondenseWhitespace.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		77671D7A2577F19200B1A6F5 = {
 			isa = PBXGroup;
 			children = (
+				77671D812577F28E00B1A6F5 /* HackingWithSwift */,
 			);
+			sourceTree = "<group>";
+		};
+		77671D812577F28E00B1A6F5 /* HackingWithSwift */ = {
+			isa = PBXGroup;
+			children = (
+				77671D832577F2E400B1A6F5 /* Strings */,
+			);
+			path = HackingWithSwift;
+			sourceTree = "<group>";
+		};
+		77671D832577F2E400B1A6F5 /* Strings */ = {
+			isa = PBXGroup;
+			children = (
+				77671D822577F2D200B1A6F5 /* AreLettersUnique.playground */,
+				77671D842577F37100B1A6F5 /* isPalindrome.playground */,
+				77671D882577F3F300B1A6F5 /* SameCharacters.playground */,
+				77671D862577F3DA00B1A6F5 /* ContainAnother.playground */,
+				77671D852577F3D400B1A6F5 /* CountCharacters.playground */,
+				77671D872577F3E900B1A6F5 /* RemoveDuplicates.playground */,
+				77671D8A2577F5C400B1A6F5 /* CondenseWhitespace.playground */,
+				77671D892577F3FC00B1A6F5 /* StringRotated.playground */,
+			);
+			path = Strings;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
