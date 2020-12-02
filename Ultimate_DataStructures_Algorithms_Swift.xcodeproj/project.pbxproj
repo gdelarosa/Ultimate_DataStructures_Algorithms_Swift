@@ -21,6 +21,7 @@
 		77671D7A2577F19200B1A6F5 = {
 			isa = PBXGroup;
 			children = (
+				77671D8B2577F69300B1A6F5 /* Leetcode */,
 				77671D812577F28E00B1A6F5 /* HackingWithSwift */,
 			);
 			sourceTree = "<group>";
@@ -46,6 +47,29 @@
 				77671D892577F3FC00B1A6F5 /* StringRotated.playground */,
 			);
 			path = Strings;
+			sourceTree = "<group>";
+		};
+		77671D8B2577F69300B1A6F5 /* Leetcode */ = {
+			isa = PBXGroup;
+			children = (
+				77671D8D2577F6A300B1A6F5 /* Arrays */,
+				77671D8C2577F69900B1A6F5 /* Strings */,
+			);
+			path = Leetcode;
+			sourceTree = "<group>";
+		};
+		77671D8C2577F69900B1A6F5 /* Strings */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Strings;
+			sourceTree = "<group>";
+		};
+		77671D8D2577F6A300B1A6F5 /* Arrays */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Arrays;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
